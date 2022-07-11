@@ -1,9 +1,11 @@
 ---
 layout: post
-title: You're up and running!
+title: Computer Vision and Deep Learning
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+I will upload the fundamental knowledge of computer vision and deep learning on this blog.
+
+Feel free to contact me if you have any question.
 
 ![_config.yml]({{ site.baseurl }}/images/config.png)
 
